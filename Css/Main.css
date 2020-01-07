@@ -1,0 +1,25 @@
+.SpecificallyPage{
+    width: 100%;
+    height: 600px;
+    margin-top: 50px;
+}
+.SpecificallyPage img{
+  width: 100%;
+  height: 100%;
+}
+.newProducts{
+    width: 100%;
+    height: 600px;
+    margin-top: 50px;
+}
+
+.newProducts img{
+    width: 100%;
+    height: 100%;
+}
+.aboutUs{
+    display: flex;
+}
+
+
+

@@ -1,0 +1,30 @@
+:root{
+    --Primary_color:#e1e1e1;
+    --border_color:#e1e1e1;
+    --title:#cc3134;
+}
+body{
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    direction: rtl;
+    width: 100%;
+    background-color: #ffffff;
+}
+html{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+}
+.container{
+    padding: 0 30px;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
